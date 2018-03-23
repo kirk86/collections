@@ -1,4 +1,4 @@
 # Collections
 Collection of random useful links over the internet
 
-[http://google.com](link1)
+[http://wguss.ml/dev/nht/empirical/](Homotopy Neural Theory)
