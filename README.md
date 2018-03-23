@@ -24,3 +24,7 @@ Collection of random useful links over the internet
 21. [RL bootcamp2](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos)
 22. [Extreme forecasting](https://eng.uber.com/neural-networks/)
 24. [Imbalance data](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
+25. [Stats&EE](http://stanford.edu/class/stats311/)
+26. [Short Tutorial Information Theory](http://alex.smola.org/teaching/cmu2013-10-701/slides/9_Recitation_InformationTheory.pdf)
+27. [CMU Notes](http://alex.smola.org/teaching/cmu2013-10-701/slides/)
+28. [Foundations ML](http://www.cs.cmu.edu/~avrim/ML07/)
