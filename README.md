@@ -22,3 +22,5 @@ Collection of random useful links over the internet
 19. [Targeted MLE](https://migariane.github.io/TMLE.nb.html)
 20. [RL bootcamp 1](https://www.youtube.com/watch?v=bsuvM1jO-4w&feature=youtu.be)
 21. [RL bootcamp2](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos)
+22. [Extreme forecasting](https://eng.uber.com/neural-networks/)
+24. [Imbalance data](https://www.marcoaltini.com/blog/dealing-with-imbalanced-data-undersampling-oversampling-and-proper-cross-validation)
