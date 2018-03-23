@@ -11,3 +11,8 @@ Collection of random useful links over the internet
 8. [Conformal Prediction](https://www.iith.ac.in/~vineethnb/indoukworkshop2015/assets/files/18_open.pdf)
 9. [Conformal & other](http://www.alrw.net/)
 10. [Perturbations, Optimization & Stats](http://www.cs.toronto.edu/~dtarlow/pos14/)
+11. [Math for ML](https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf)
+12. [MathML](https://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
+13. [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
+14. [MathML](http://jrom.ece.gatech.edu/mlmath-fall-2017/notes/)
+15. [StatLearning](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
