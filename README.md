@@ -1,4 +1,4 @@
 # Collections
 Collection of random useful links over the internet
 
-[link1](link2)
+(link1)[http://google.com]
