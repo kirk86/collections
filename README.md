@@ -18,3 +18,7 @@ Collection of random useful links over the internet
 15. [StatLearning](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
 16. [StatLearning](https://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/)
 17. [MathML](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
+18. [TCS](https://www.cs.cmu.edu/~venkatg/teaching/CStheory-infoage/)
+19. [Targeted MLE](https://migariane.github.io/TMLE.nb.html)
+20. [RL bootcamp 1](https://www.youtube.com/watch?v=bsuvM1jO-4w&feature=youtu.be)
+21. [RL bootcamp2](https://www.youtube.com/channel/UCTgM-VlXKuylPrZ_YGAJHOw/videos)
