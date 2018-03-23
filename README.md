@@ -16,3 +16,5 @@ Collection of random useful links over the internet
 13. [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/)
 14. [MathML](http://jrom.ece.gatech.edu/mlmath-fall-2017/notes/)
 15. [StatLearning](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
+16. [StatLearning](https://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/)
+17. [MathML](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/)
