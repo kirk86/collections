@@ -35,3 +35,4 @@ Collection of random useful links over the internet
 32. [Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)
 33. [Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
 34. [Reinforcement Learning Berkeley](http://rll.berkeley.edu/deeprlcourse/)
+35. [Foundations of Data Science MSR](https://www.youtube.com/watch?v=WEBUWYxaqLQ&list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
