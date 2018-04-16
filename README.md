@@ -98,3 +98,5 @@ Collection of random useful links over the internet
 96. [Open Stanford](http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex4/ex4.html)
 97. [Short courses](http://lear.inrialpes.fr/people/mairal/tutorials.html)
 98. [Advanced ML](http://lear.inrialpes.fr/people/mairal/teaching/2016-2017/MSIAM/)
+99. [A Mathematician' Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+98. [Advanced ML](http://lear.inrialpes.fr/people/mairal/teaching/2016-2017/MSIAM/)
