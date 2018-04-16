@@ -111,3 +111,4 @@ Collection of random useful links over the internet
 107. [Math & Physics Lectures](http://mathswithphysics.blogspot.ie/2017/)
 108. [SOM 1](http://www.ai-junkie.com/ann/som/som1.html)
 109. [SOM 2](http://www.cs.bham.ac.uk/%7Ejxb/NN/l16.pdf)
+110. [Scaling Bayesian Inference Thesis](http://jhhuggins.org/papers/thesis.pdf)
