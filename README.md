@@ -85,3 +85,4 @@ Collection of random useful links over the internet
 82. [Efficient Algos for Geometric Optimization](https://www2.cs.duke.edu/courses/spring07/cps296.2/scribe_notes/p412-agarwal.pdf)
 83. [Information Geometric Optimization](http://www.yann-ollivier.org/rech/publs/igo.pdf)
 84. [ML Theory](https://cs7545.wordpress.com/bibliography/)
+85. [Notes on Writing Well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
