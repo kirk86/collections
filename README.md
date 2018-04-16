@@ -105,3 +105,7 @@ Collection of random useful links over the internet
 101. [Online Learning](https://www.youtube.com/watch?v=bGd6c6Zz_AY&feature=youtu.be)
 102. [Convex Relaxations](http://ir.uiowa.edu/cgi/viewcontent.cgi?article=1839&context=etd)
 103. [Statistical Limits of Convex Relaxations](https://arxiv.org/pdf/1503.01442.pdf)
+104. [Convex Relaxations for Permutations](https://www.di.ens.fr/~fbach/siam_fogel.pdf)
+105. [Theorem Proving](https://arxiv.org/abs/1708.02553v1)
+106. [Semidefinite Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/readings/MIT6_251JF09_SDP.pdf)
+107. [Math & Physics Lectures](http://mathswithphysics.blogspot.ie/2017/)
