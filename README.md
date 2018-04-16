@@ -58,3 +58,4 @@ Collection of random useful links over the internet
 55. [Stanford tutorials](http://ai.stanford.edu/~quocle/tutorial1.pdf)
 56. [Stanford tutorials 2](https://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/)
 57. [Talk slides that lead to capsulenets](http://cseweb.ucsd.edu/~gary/cs200/s12/Hinton.pdf)
+58. [Material on ML](http://www.igb.uci.edu/~pfbaldi/?page=tutorials)
