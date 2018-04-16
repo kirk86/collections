@@ -102,3 +102,4 @@ Collection of random useful links over the internet
 98. [Advanced ML](http://lear.inrialpes.fr/people/mairal/teaching/2016-2017/MSIAM/)
 99. [Linear Algebra in 4 Pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)
 100. [Global Optimization](http://www.lix.polytechnique.fr/~liberti/teaching/dix/inf572-09/nonconvex_optimization.pdf)
+101. [Online Learning](https://www.youtube.com/watch?v=bGd6c6Zz_AY&feature=youtu.be)
