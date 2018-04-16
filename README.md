@@ -86,3 +86,4 @@ Collection of random useful links over the internet
 83. [Information Geometric Optimization](http://www.yann-ollivier.org/rech/publs/igo.pdf)
 84. [ML Theory](https://cs7545.wordpress.com/bibliography/)
 85. [Notes on Writing Well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
+86. [Evolutionary Compuatation](http://lmarti.com/aec-2014)
