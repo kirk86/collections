@@ -96,3 +96,4 @@ Collection of random useful links over the internet
 94. [Multivariate Statistics](https://mycourses.aalto.fi/course/view.php?id=7621)
 95. [Sparse Coding](https://lear.inrialpes.fr/people/mairal/tutorial_iccv09/)
 96. [Open Stanford](http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex4/ex4.html)
+97. [Short courses](http://lear.inrialpes.fr/people/mairal/tutorials.html)
