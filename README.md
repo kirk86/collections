@@ -109,3 +109,5 @@ Collection of random useful links over the internet
 105. [Theorem Proving](https://arxiv.org/abs/1708.02553v1)
 106. [Semidefinite Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-251j-introduction-to-mathematical-programming-fall-2009/readings/MIT6_251JF09_SDP.pdf)
 107. [Math & Physics Lectures](http://mathswithphysics.blogspot.ie/2017/)
+108. [SOM 1](http://www.ai-junkie.com/ann/som/som1.html)
+109. [SOM 2](http://www.cs.bham.ac.uk/%7Ejxb/NN/l16.pdf)
