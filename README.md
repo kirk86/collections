@@ -55,3 +55,5 @@ Collection of random useful links over the internet
 52. [Deep Learning Book 2](https://github.com/janishar/mit-deep-learning-book-pdf)
 53. [Small Sample Theory](http://statistics.berkeley.edu/sites/default/files/tech-reports/541.pdf)
 54. [Guide to convolution arithmetic](https://arxiv.org/abs/1603.07285)
+55. [Stanford tutorials](http://ai.stanford.edu/~quocle/tutorial1.pdf)
+56. [Stanford tutorials 2](https://www.trivedigaurav.com/blog/quoc-les-lectures-on-deep-learning/)
