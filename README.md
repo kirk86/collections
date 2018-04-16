@@ -89,3 +89,4 @@ Collection of random useful links over the internet
 86. [Evolutionary Compuatation](http://lmarti.com/aec-2014)
 87. [Gravity and Light Courses](https://gravity-and-light.herokuapp.com/tutorials)
 89. [Statistical ML](http://wp.doc.ic.ac.uk/sml/teaching/)
+90. [Sensitivity Analysis](https://icme.hpc.msstate.edu/mediawiki/index.php/Uncertainty_Quantification_and_Sensitivity_Analysis_Tool)
