@@ -81,3 +81,4 @@ Collection of random useful links over the internet
 78. [Simple Theory of DL](https://arxiv.org/pdf/1511.05653.pdf)
 79. [Utah ML material](http://www.cs.utah.edu/~piyush/teaching/cs5350.html)
 80. [Geometric Optimization](https://stanford.edu/~boyd/papers/pdf/gp_tutorial.pdf)
+81. [Quadratic Programming in Geometric Optimization](https://www.inf.ethz.ch/personal/emo/DoctThesisFiles/schoenherr02.pdf)
