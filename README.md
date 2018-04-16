@@ -91,3 +91,7 @@ Collection of random useful links over the internet
 89. [Statistical ML](http://wp.doc.ic.ac.uk/sml/teaching/)
 90. [Sensitivity Analysis](https://icme.hpc.msstate.edu/mediawiki/index.php/Uncertainty_Quantification_and_Sensitivity_Analysis_Tool)
 91. [Utah notes](http://www.cs.utah.edu/~piyush/teaching/cs5350.html)
+92. [OCW](https://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-nonparametrics-and-robustness-spring-2005/lecture-notes/)
+93. [OCW Stats](https://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/)
+94. [Multivariate Statistics](https://mycourses.aalto.fi/course/view.php?id=7621)
+95. [Sparse Coding](https://lear.inrialpes.fr/people/mairal/tutorial_iccv09/)
