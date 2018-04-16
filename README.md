@@ -112,3 +112,4 @@ Collection of random useful links over the internet
 108. [SOM 1](http://www.ai-junkie.com/ann/som/som1.html)
 109. [SOM 2](http://www.cs.bham.ac.uk/%7Ejxb/NN/l16.pdf)
 110. [Scaling Bayesian Inference Thesis](http://jhhuggins.org/papers/thesis.pdf)
+111. [Statistical Learning Lectures](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
