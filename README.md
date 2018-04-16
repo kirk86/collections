@@ -95,3 +95,4 @@ Collection of random useful links over the internet
 93. [OCW Stats](https://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/)
 94. [Multivariate Statistics](https://mycourses.aalto.fi/course/view.php?id=7621)
 95. [Sparse Coding](https://lear.inrialpes.fr/people/mairal/tutorial_iccv09/)
+96. [Open Stanford](http://openclassroom.stanford.edu/MainFolder/DocumentPage.php?course=MachineLearning&doc=exercises/ex4/ex4.html)
