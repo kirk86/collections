@@ -87,3 +87,5 @@ Collection of random useful links over the internet
 84. [ML Theory](https://cs7545.wordpress.com/bibliography/)
 85. [Notes on Writing Well](https://github.com/mnielsen/notes-on-writing/blob/master/notes_on_writing.md)
 86. [Evolutionary Compuatation](http://lmarti.com/aec-2014)
+87. [Gravity and Light Courses](https://gravity-and-light.herokuapp.com/tutorials)
+89. [Statistical ML](http://wp.doc.ic.ac.uk/sml/teaching/)
