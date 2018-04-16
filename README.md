@@ -52,3 +52,4 @@ Collection of random useful links over the internet
 49. [47 - 48](http://www.mit.edu/~rakhlin/courses.html)
 50. [Cornell notes](https://www.cs.cornell.edu/~kilian/teaching/teaching.html)
 51. [Deep Learning Book](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/chapter-wise-pdf)
+52. [Deep Learning Book 2](https://github.com/janishar/mit-deep-learning-book-pdf)
