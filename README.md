@@ -118,3 +118,4 @@ Collection of random useful links over the internet
 114. [Stats Theory](http://stanford.edu/class/stats311/)
 115. [Stats Theory 2](http://stanford.edu/class/stats300b/)
 116. [ML Stanford](http://cs229.stanford.edu/)
+117. [Matrix Differentiation](https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf)
