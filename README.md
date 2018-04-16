@@ -79,3 +79,4 @@ Collection of random useful links over the internet
 76. [Half Spaces](https://arxiv.org/pdf/1511.07948.pdf)
 77. [Bayes Opt](http://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)
 78. [Simple Theory of DL](https://arxiv.org/pdf/1511.05653.pdf)
+79. [Utah ML material](http://www.cs.utah.edu/~piyush/teaching/cs5350.html)
