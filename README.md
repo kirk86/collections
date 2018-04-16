@@ -84,3 +84,4 @@ Collection of random useful links over the internet
 81. [Quadratic Programming in Geometric Optimization](https://www.inf.ethz.ch/personal/emo/DoctThesisFiles/schoenherr02.pdf)
 82. [Efficient Algos for Geometric Optimization](https://www2.cs.duke.edu/courses/spring07/cps296.2/scribe_notes/p412-agarwal.pdf)
 83. [Information Geometric Optimization](http://www.yann-ollivier.org/rech/publs/igo.pdf)
+84. [ML Theory](https://cs7545.wordpress.com/bibliography/)
