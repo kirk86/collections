@@ -120,3 +120,4 @@ Collection of random useful links over the internet
 116. [ML Stanford](http://cs229.stanford.edu/)
 117. [Matrix Differentiation](https://people.maths.ox.ac.uk/gilesm/files/NA-08-01.pdf)
 118. [MaskNet](http://publications.lib.chalmers.se/records/fulltext/250417/250417.pdf)
+119. [Howgwild-Parallelizing SGD](http://pages.cs.wisc.edu/~brecht/papers/hogwildTR.pdf)
