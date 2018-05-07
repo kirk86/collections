@@ -123,3 +123,4 @@ Collection of random useful links over the internet
 119. [Howgwild-Parallelizing SGD](http://pages.cs.wisc.edu/~brecht/papers/hogwildTR.pdf)
 120. [Exploration strategies](https://arxiv.org/pdf/1712.06560.pdf)
 121. [Extracting comprehensible models from NN - PhD](https://www.biostat.wisc.edu/~craven/papers/thesis.pdf)
+123. [Deep Reinforcement Learning Berkley](http://rll.berkeley.edu/deeprlcourse/)
