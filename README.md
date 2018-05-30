@@ -139,3 +139,4 @@ Collection of random useful links over the internet
 [13](https://www.youtube.com/watch?v=iNPCBRUt99E)
 [14](https://www.youtube.com/watch?v=RjPXfUT7Odo)
 125. [Math for ML](https://mml-book.github.io/)
+126. [Optimization lecture notes](https://ee227c.github.io/)
