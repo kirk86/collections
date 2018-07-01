@@ -142,3 +142,5 @@ Collection of random useful links over the internet
 126. [Optimization lecture notes](https://ee227c.github.io/)
 127. [Ipam Workshop on GCNN](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) [video](https://www.youtube.com/watch?v=cWIeTMklzNg)
 128. [CVPR18-How to bee a good citizen](https://www.cc.gatech.edu/~parikh/citizenofcvpr/)
+129. [Math writing](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
+130. [3 Sins of authors in cs & math](http://www.cs.cmu.edu/~jrs/sins.html)
