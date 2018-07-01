@@ -140,3 +140,4 @@ Collection of random useful links over the internet
 [14](https://www.youtube.com/watch?v=RjPXfUT7Odo)
 125. [Math for ML](https://mml-book.github.io/)
 126. [Optimization lecture notes](https://ee227c.github.io/)
+127. [Ipam Workshop on GCNN](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) (https://www.youtube.com/watch?v=cWIeTMklzNg)
