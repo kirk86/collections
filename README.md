@@ -144,3 +144,4 @@ Collection of random useful links over the internet
 128. [CVPR18-How to bee a good citizen](https://www.cc.gatech.edu/~parikh/citizenofcvpr/)
 129. [Math writing](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
 130. [3 Sins of authors in cs & math](http://www.cs.cmu.edu/~jrs/sins.html)
+131. [Nice wealth of resources from MLSS.cc](http://mlss.cc/)
