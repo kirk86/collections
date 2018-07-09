@@ -145,4 +145,4 @@ Collection of random useful links over the internet
 129. [Math writing](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
 130. [3 Sins of authors in cs & math](http://www.cs.cmu.edu/~jrs/sins.html)
 131. [Nice wealth of resources from MLSS.cc](http://mlss.cc/)
-132. [David Silver's Courlse on RL] & [John Schulmann's lectures] (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) (https://www.youtube.com/watch?v=oPGVsoBonLM)
+132. [David Silver's Courlse on RL][John Schulmann's lectures] (http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) (https://www.youtube.com/watch?v=oPGVsoBonLM)
