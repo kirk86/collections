@@ -146,3 +146,4 @@ Collection of random useful links over the internet
 130. [3 Sins of authors in cs & math](http://www.cs.cmu.edu/~jrs/sins.html)
 131. [Nice wealth of resources from MLSS.cc](http://mlss.cc/)
 132. [David Silver's Courlse on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) & [John Schulmann's lectures](https://www.youtube.com/watch?v=oPGVsoBonLM)
+133. [ds3-datascience-polytechnique summer school 2018](http://www.ds3-datascience-polytechnique.fr/sessions/)
