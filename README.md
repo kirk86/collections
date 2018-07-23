@@ -148,3 +148,4 @@ Collection of random useful links over the internet
 132. [David Silver's Courlse on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) & [John Schulmann's lectures](https://www.youtube.com/watch?v=oPGVsoBonLM)
 133. [ds3-datascience-polytechnique summer school 2018](http://www.ds3-datascience-polytechnique.fr/sessions/)
 134. [ML Series from Bloomberg](https://bloomberg.github.io/foml/#home)
+135. [Geometric Deep Learning](http://geometricdeeplearning.com/slides/NIPS-GDL.pdf)
