@@ -150,3 +150,4 @@ Collection of random useful links over the internet
 134. [ML Series from Bloomberg](https://bloomberg.github.io/foml/#home)
 135. [Geometric Deep Learning](http://geometricdeeplearning.com/slides/NIPS-GDL.pdf)
 136. [Fairness in ML book](http://fairmlbook.org/)
+137. [FOPSS summer school 2018](http://fopss18.mimuw.edu.pl/programme.html)
