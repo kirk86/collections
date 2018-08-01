@@ -151,3 +151,4 @@ Collection of random useful links over the internet
 135. [Geometric Deep Learning](http://geometricdeeplearning.com/slides/NIPS-GDL.pdf)
 136. [Fairness in ML book](http://fairmlbook.org/)
 137. [FOPSS summer school 2018](http://fopss18.mimuw.edu.pl/programme.html)
+138. [Turing mechanistics with generative modeling](http://danroy.org/papers/FreRoyTen-Turing.pdf)
