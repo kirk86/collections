@@ -152,4 +152,5 @@ Collection of random useful links over the internet
 136. [Fairness in ML book](http://fairmlbook.org/)
 137. [FOPSS summer school 2018](http://fopss18.mimuw.edu.pl/programme.html)
 138. [Turing mechanistics with generative modeling](http://danroy.org/papers/FreRoyTen-Turing.pdf)
-139. [ Shalev-Shwartz and Ben-David ML Handouts](http://www.cs.huji.ac.il/~shais/Handouts.pdf)
+139. [Shalev-Shwartz and Ben-David ML Handouts](http://www.cs.huji.ac.il/~shais/Handouts.pdf)
+140. [2018 Summer School on “Operations Research and Machine Learning”](https://cermics-lab.enpc.fr/summer-school-operations-research-and-machine-learning/)
