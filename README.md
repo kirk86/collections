@@ -124,6 +124,7 @@ Collection of random useful links over the internet
 120. [Exploration strategies](https://arxiv.org/pdf/1712.06560.pdf)
 121. [Extracting comprehensible models from NN - PhD](https://www.biostat.wisc.edu/~craven/papers/thesis.pdf)
 123. [Deep Reinforcement Learning Berkley](http://rll.berkeley.edu/deeprlcourse/)
+[RL Camp](https://sites.google.com/view/deep-rl-bootcamp/lectures) [Labs](https://sites.google.com/view/deep-rl-bootcamp/labs)
 124. [Concentration Inequalities: 1](https://www.youtube.com/watch?v=JjGL2_Z-1w4)
 [2](https://www.youtube.com/watch?v=Npo-r5oN5l0)
 [3](https://www.youtube.com/watch?v=SnNj6cMeDq0)
