@@ -157,3 +157,4 @@ Collection of random useful links over the internet
 140. [2018 Summer School on “Operations Research and Machine Learning”](https://cermics-lab.enpc.fr/summer-school-operations-research-and-machine-learning/)
 141. [Resources on books and drafts from Prof. Cosma Shalizi](http://bactra.org/)
 142. [Another nice collection of lecture notes on stats, ml and optimization from Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/teaching.html)
+143. [Open lectures for PhD students](http://phdopen.mimuw.edu.pl/index.php)
