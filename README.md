@@ -158,3 +158,4 @@ Collection of random useful links over the internet
 141. [Resources on books and drafts from Prof. Cosma Shalizi](http://bactra.org/)
 142. [Another nice collection of lecture notes on stats, ml and optimization from Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/teaching.html)
 143. [Open lectures for PhD students](http://phdopen.mimuw.edu.pl/index.php)
+144. [Statistical relational learning summer school 2018](http://acai2018.unife.it/program/)
