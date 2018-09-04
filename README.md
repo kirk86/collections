@@ -161,4 +161,4 @@ Collection of random useful links over the internet
 144. [Statistical relational learning summer school 2018](http://acai2018.unife.it/program/)
 145. [7 Tools for Causal Inference](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf)
 146. [Deep Bayesian Summer School 2018](http://deepbayes.ru/#materials)
-147. [CMU deep learning course 2018] (http://deeplearning.cs.cmu.edu/)
+147. [CMU deep learning course 2018](http://deeplearning.cs.cmu.edu/)
