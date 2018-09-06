@@ -162,3 +162,4 @@ Collection of random useful links over the internet
 145. [7 Tools for Causal Inference](http://ftp.cs.ucla.edu/pub/stat_ser/r481.pdf)
 146. [Deep Bayesian Summer School 2018](http://deepbayes.ru/#materials)
 147. [CMU deep learning course 2018](http://deeplearning.cs.cmu.edu/)
+148. [Learning from data G.Strang](http://math.mit.edu/~gs/learningfromdata/)
