@@ -167,3 +167,4 @@ Collection of random useful links over the internet
 150. [StarAI summer school 2018 lectures](https://www.youtube.com/playlist?list=PLJPXEH0boeNDWTNwWTWnVffXi5XwAj1mb)
 151. [ILP 2018](https://www.youtube.com/playlist?list=PLJPXEH0boeNDrNcUCQoesU6przDuToqRb)
 152. [Non-convex Optimization NIPS 2015 Workshop](https://sites.google.com/site/nips2015nonconvexoptimization/schedule)
+153. [TLA+ formal verification abstract math language](http://lamport.azurewebsites.net/video/videos.html)
