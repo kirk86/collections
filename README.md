@@ -170,3 +170,4 @@ Collection of random useful links over the internet
 153. [TLA+ formal verification abstract math language](http://lamport.azurewebsites.net/video/videos.html)
 154. [Toronto group DNN lecture series 2014 - old but informative](http://www.cs.toronto.edu/~tijmen/csc321/)
 155. [cs224 DeepNLP from Stanford](https://cs224d.stanford.edu/lectures/)
+156. [C++ Now 2018 slides](http://cppnow.org/history/2018/talks/)
