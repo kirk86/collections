@@ -172,3 +172,4 @@ Collection of random useful links over the internet
 155. [cs224 DeepNLP from Stanford](https://cs224d.stanford.edu/lectures/)
 156. [C++ Now 2018 slides](http://cppnow.org/history/2018/talks/)
 157. [Probabilistic programming](http://probabilistic-programming.org/wiki/Home) - [MIT lectures](https://ocw.mit.edu/resources/res-9-003-brains-minds-and-machines-summer-course-summer-2015/) - [forestdb.org](http://forestdb.org/)
+158. [DeepLR Maths Winter School](https://www.deeplearningmathematics.com/)
