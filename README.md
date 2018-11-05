@@ -181,3 +181,4 @@ Collection of random useful links over the internet
 164. [MSR talks](https://www.microsoft.com/en-us/research/videos/microsoft-research-talks/)
 165. [Shannon Channel](http://eceweb1.rutgers.edu/~csi/Shannon.html)
 166. [Princeton TCS videos](http://theory.cs.princeton.edu/videos.html)
+167. [Deep learning book - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
