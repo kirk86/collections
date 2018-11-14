@@ -183,3 +183,4 @@ Collection of random useful links over the internet
 166. [Princeton TCS videos](http://theory.cs.princeton.edu/videos.html)
 167. [Deep learning book - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
 168. [Great series of talks around the globe on TCS+](https://sites.google.com/site/plustcs)
+169. [How to write good cvpr submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
