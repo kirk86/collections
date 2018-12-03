@@ -184,3 +184,4 @@ Collection of random useful links over the internet
 167. [Deep learning book - Sebastian Raschka](https://github.com/rasbt/deep-learning-book)
 168. [Great series of talks around the globe on TCS+](https://sites.google.com/site/plustcs)
 169. [How to write good cvpr submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+170. [Theories of Deep Learning](https://stats385.github.io/)
