@@ -185,3 +185,4 @@ Collection of random useful links over the internet
 168. [Great series of talks around the globe on TCS+](https://sites.google.com/site/plustcs)
 169. [How to write good cvpr submission](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 170. [Theories of Deep Learning](https://stats385.github.io/) [videos](https://www.youtube.com/playlist?list=PLwUqqMt5en7fFLwSDa9V3JIkDam-WWgqy)
+171. [Statistical Thinking](http://statsthinking21.org)
