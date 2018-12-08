@@ -187,3 +187,4 @@ Collection of random useful links over the internet
 170. [Theories of Deep Learning](https://stats385.github.io/) [videos](https://www.youtube.com/playlist?list=PLwUqqMt5en7fFLwSDa9V3JIkDam-WWgqy)
 171. [Statistical Thinking](http://statsthinking21.org)
 172. [Adversarial Tutorial NeurIPS 2018](https://adversarial-ml-tutorial.org/)
+173. [Variational Bayesian Inference ICML 2018 Tutorial](http://www.tamarabroderick.com/tutorial_2018_icml.html)
