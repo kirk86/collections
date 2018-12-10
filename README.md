@@ -191,3 +191,4 @@ Collection of random useful links over the internet
 174. [Statistical Learning Theory NeurIPS 2018](https://www.facebook.com/nipsfoundation/videos/590172534772927/) [Slides](https://media.neurips.cc/Conferences/NIPS2018/Slides/stastical_learning_theory.pdf) [Additional Slides](http://statistikframjandet.se/cramersallskapet/wp-content/uploads/2011/06/JST.pdf)
 175. [AutoML book](http://www.automl.org/book/)
 176. [Reinforcement Learning Book](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) [Alt. link](http://incompleteideas.net/book/the-book-2nd.html)
+177. [Competitive Programming](https://cses.fi/book/index.html)
