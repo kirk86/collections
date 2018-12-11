@@ -193,3 +193,4 @@ Collection of random useful links over the internet
 176. [Reinforcement Learning Book](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) [Alt. link](http://incompleteideas.net/book/the-book-2nd.html)
 177. [Competitive Programming](https://cses.fi/book/index.html)
 178. [Optimization 2017](https://simons.berkeley.edu/programs/optimization2017) [2018](https://simons.berkeley.edu/workshops/schedule/9374)
+179. [tmux-screen cheatsheet](http://www.dayid.org/comp/tm.html) [tmux](https://tmuxcheatsheet.com/)
