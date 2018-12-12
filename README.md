@@ -196,3 +196,4 @@ Collection of random useful links over the internet
 179. [tmux-screen cheatsheet](http://www.dayid.org/comp/tm.html) [tmux](https://tmuxcheatsheet.com/)
 180. [papers with code](https://paperswithcode.com/greatest)
 181. [killed by google](https://killedbygoogle.com/) [jax](https://github.com/google/jax)
+182. [PHATE](https://www.krishnaswamylab.org/projects/phate/) [1](https://www.biorxiv.org/content/early/2017/03/24/120378) [Facets](https://pair-code.github.io/facets/) [1](https://github.com/PAIR-code/facets)
