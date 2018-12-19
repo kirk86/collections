@@ -199,3 +199,4 @@ Collection of random useful links over the internet
 182. [PHATE](https://www.krishnaswamylab.org/projects/phate/) [1](https://www.biorxiv.org/content/early/2017/03/24/120378) [Facets](https://pair-code.github.io/facets/) [1](https://github.com/PAIR-code/facets)
 182. [Data reproducibility](http://pachyderm.io/) [DVC](dvc.org)
 183. [Deep learning course lectures](https://m2dsupsdlclass.github.io/lectures-labs/)
+184. [Birds eye view on optimization](http://fa.bianp.net/teaching/2018/eecs227at/)
