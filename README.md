@@ -200,3 +200,4 @@ Collection of random useful links over the internet
 182. [Data reproducibility](http://pachyderm.io/) [DVC](dvc.org)
 183. [Deep learning course lectures](https://m2dsupsdlclass.github.io/lectures-labs/)
 184. [Birds eye view on optimization](http://fa.bianp.net/teaching/2018/eecs227at/)
+185. [Reinforcement Learning Monograph - Bertsekas](http://web.mit.edu/dimitrib/www/RLbook.html)
