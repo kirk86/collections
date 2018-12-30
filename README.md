@@ -204,3 +204,4 @@ Collection of random useful links over the internet
 186. [Geometric Functional Analysis Workshop](http://www.math.tamu.edu/~grigoris/ConcentrationWeek2016Home.html) [1](http://www.wisdom.weizmann.ac.il/~ronene/GFAP/gfap16.html)
 187. [Deep Learning & Reinforcement Learning summer school 2018 Toronto](http://videolectures.net/DLRLsummerschool2018_toronto)
 188. [CMU DL 2018](https://www.youtube.com/playlist?list=PLLR0_ZOlbfD6KDBq93G8-guHI-J1ICeFm)
+189. [Rules of ML: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
