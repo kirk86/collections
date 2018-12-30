@@ -28,7 +28,7 @@ Collection of random useful links over the internet
 25. [Stats&EE](http://stanford.edu/class/stats311/)
 26. [Short Tutorial Information Theory](http://alex.smola.org/teaching/cmu2013-10-701/slides/9_Recitation_InformationTheory.pdf)
 27. [CMU Notes](http://alex.smola.org/teaching/cmu2013-10-701/slides/)
-28. [Foundations ML](http://www.cs.cmu.edu/~avrim/ML07/)
+28. [Foundations ML](http://www.cs.cmu.edu/~avrim/ML07/) [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
 29. [Evolution Stragies](http://www.jmlr.org/papers/volume15/wierstra14a/wierstra14a.pdf)
 30. [Scipy tutorial](https://www.tau.ac.il/~kineret/amit/scipy_tutorial/)
 31. [Stochastic Convex Optimization](http://stanford.edu/~jduchi/PCMIConvex/)
