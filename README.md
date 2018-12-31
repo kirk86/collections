@@ -34,7 +34,7 @@ Collection of random useful links over the internet
 31. [Stochastic Convex Optimization](http://stanford.edu/~jduchi/PCMIConvex/)
 32. [Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)
 33. [Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
-34. [Reinforcement Learning Berkeley](http://rll.berkeley.edu/deeprlcourse/)
+34. [Reinforcement Learning Berkeley](http://rll.berkeley.edu/deeprlcourse/) [CS188 - Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 35. [Foundations of Data Science MSR](https://www.youtube.com/watch?v=WEBUWYxaqLQ&list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
 36. [The analysis of data](http://theanalysisofdata.com/probability/1_1.html)
 37. [Statistical Learning Theory Stanford](https://web.stanford.edu/class/cs229t/Lectures/)
@@ -205,3 +205,4 @@ Collection of random useful links over the internet
 187. [Deep Learning & Reinforcement Learning summer school 2018 Toronto](http://videolectures.net/DLRLsummerschool2018_toronto)
 188. [CMU DL 2018](https://www.youtube.com/playlist?list=PLLR0_ZOlbfD6KDBq93G8-guHI-J1ICeFm)
 189. [Rules of ML: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+
