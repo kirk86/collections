@@ -205,4 +205,5 @@ Collection of random useful links over the internet
 187. [Deep Learning & Reinforcement Learning summer school 2018 Toronto](http://videolectures.net/DLRLsummerschool2018_toronto)
 188. [CMU DL 2018](https://www.youtube.com/playlist?list=PLLR0_ZOlbfD6KDBq93G8-guHI-J1ICeFm)
 189. [Rules of ML: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+190. [Algorithms](algorithms.wtf)
 
