@@ -206,4 +206,5 @@ Collection of random useful links over the internet
 188. [CMU DL 2018](https://www.youtube.com/playlist?list=PLLR0_ZOlbfD6KDBq93G8-guHI-J1ICeFm)
 189. [Rules of ML: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 190. [Algorithms](http://algorithms.wtf)
+191. [Monte Carlo Approaches](https://statweb.stanford.edu/~owen/mc/)
 
