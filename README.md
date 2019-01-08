@@ -62,7 +62,7 @@ Collection of random useful links over the internet
 59. [ML material 1](https://web.engr.oregonstate.edu/~tgd/classes/534/slides/)
 60. [ML material 2](https://web.engr.oregonstate.edu/~tgd/classes/534/slides/part1.pdf)
 62. [Computer Vision Book](http://www.computervisionmodels.com/)
-63. [Probability Theory](http://www.sci.utah.edu/%7Egerig/CS6640-F2010/prob-tut.pdf)
+63. [Probability Theory](http://www.sci.utah.edu/%7Egerig/CS6640-F2010/prob-tut.pdf) [1](https://www.vfu.bg/en/e-Learning/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)
 64. [Fundamentals of computational vision](http://www.cs.toronto.edu/~kyros/courses/2503/)
 65. [Objective functions](http://axon.cs.byu.edu/~martinez/classes/678/Papers/Rimer_LL.pdf)
 66. [Stanford ML A.Ng](http://www.holehouse.org/mlclass/index.html)
