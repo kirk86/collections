@@ -143,7 +143,7 @@ Collection of random useful links over the internet
 126. [Optimization lecture notes](https://ee227c.github.io/)
 127. [Ipam Workshop on GCNN](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule) [video](https://www.youtube.com/watch?v=cWIeTMklzNg)
 128. [CVPR18-How to bee a good citizen](https://www.cc.gatech.edu/~parikh/citizenofcvpr/)
-129. [Math writing](http://www.mit.edu/~dimitrib/Ten_Rules.pdf)
+129. [Math writing](http://www.mit.edu/~dimitrib/Ten_Rules.pdf) [1](http://www.cs.cmu.edu/~jrs/sins.html) [2] (https://www-cs-faculty.stanford.edu/~knuth/papers/cs1193.pdf) [3](http://www.math.uchicago.edu/~may/VIGRE/VIGRE2010/piiUJM2.pdf) [4](http://www.ldv.ei.tum.de/fileadmin/w00bfa/www/Vorlesungen/Scientific_Writing/Scientific_Writing_Mathematical_Writing.pdf) [5](https://www.math.uh.edu/~tomforde/MathWriting.pdf) [6](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 130. [3 Sins of authors in cs & math](http://www.cs.cmu.edu/~jrs/sins.html)
 131. [Nice wealth of resources from MLSS.cc](http://mlss.cc/)
 132. [David Silver's Courlse on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) & [John Schulmann's lectures](https://www.youtube.com/watch?v=oPGVsoBonLM)
