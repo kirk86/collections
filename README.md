@@ -207,4 +207,5 @@ Collection of random useful links over the internet
 189. [Rules of ML: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 190. [Algorithms](http://algorithms.wtf)
 191. [Monte Carlo Approaches](https://statweb.stanford.edu/~owen/mc/)
+192. [Best paper awards in CS since '96](https://jeffhuang.com/best_paper_awards.html)
 
