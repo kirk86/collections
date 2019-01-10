@@ -208,4 +208,4 @@ Collection of random useful links over the internet
 190. [Algorithms](http://algorithms.wtf)
 191. [Monte Carlo Approaches](https://statweb.stanford.edu/~owen/mc/)
 192. [Best paper awards in CS since '96](https://jeffhuang.com/best_paper_awards.html)
-193. [Topology](http://groupoids.org.uk/topgpds.html)
+193. [Topology](http://groupoids.org.uk/topgpds.html) [1](https://mathcs.org/analysis/reals/topo/open.html)
