@@ -114,7 +114,7 @@ Collection of random useful links over the internet
 110. [Scaling Bayesian Inference Thesis](http://jhhuggins.org/papers/thesis.pdf)
 111. [Statistical Learning Lectures](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 112. [Stochastic Convex Optimization John Duchi](http://stanford.edu/~jduchi/PCMIConvex/)
-113. [Convex Optimization 2](http://web.stanford.edu/class/ee364b/) [3](http://web.stanford.edu/~boyd/cvxbook/) [4](https://davidrosenberg.github.io/ml2015/docs/convex-optimization.pdf)
+113. [Convex Optimization 2](http://web.stanford.edu/class/ee364b/) [3](http://web.stanford.edu/~boyd/cvxbook/) [4](https://davidrosenberg.github.io/ml2015/docs/convex-optimization.pdf) [5](https://web.stanford.edu/class/msande311/)
 114. [Stats Theory](http://stanford.edu/class/stats311/)
 115. [Stats Theory 2](http://stanford.edu/class/stats300b/)
 116. [ML Stanford](http://cs229.stanford.edu/)
