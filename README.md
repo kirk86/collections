@@ -210,4 +210,4 @@ Collection of random useful links over the internet
 192. [Best paper awards in CS since '96](https://jeffhuang.com/best_paper_awards.html)
 193. [Topology](http://groupoids.org.uk/topgpds.html) [1](https://mathcs.org/analysis/reals/topo/open.html)
 194. [Approximate Inference](http://users.isy.liu.se/rt/chran60/publications/naesseth2018thesis.pdf) [2](http://users.isy.liu.se/en/rt/chran60/)
-195. [Math ref](https://archive.org/details/synopsisofelemen00carrrich/page/38) [Math proof, thought process](http://cognitivemedium.com/srs-mathematics)
+195. [Math ref](https://archive.org/details/synopsisofelemen00carrrich/page/38), [Math proof thought process](http://cognitivemedium.com/srs-mathematics)
