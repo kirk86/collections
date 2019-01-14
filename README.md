@@ -33,7 +33,7 @@ Collection of random useful links over the internet
 30. [Scipy tutorial](https://www.tau.ac.il/~kineret/amit/scipy_tutorial/)
 31. [Stochastic Convex Optimization](http://stanford.edu/~jduchi/PCMIConvex/)
 32. [Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)
-33. [Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html)
+33. [Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html) [Key papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 34. [Reinforcement Learning Berkeley](http://rll.berkeley.edu/deeprlcourse/) [CS188 - Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 35. [Foundations of Data Science MSR](https://www.youtube.com/watch?v=WEBUWYxaqLQ&list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc)
 36. [The analysis of data](http://theanalysisofdata.com/probability/1_1.html)
