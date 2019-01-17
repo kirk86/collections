@@ -213,3 +213,4 @@ Collection of random useful links over the internet
 195. [Math ref](https://archive.org/details/synopsisofelemen00carrrich/page/38), [Math proof thought process](http://cognitivemedium.com/srs-mathematics)
 196. [ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) Examples:[1](http://stanford.edu/~boyd/admm.html), [2](https://web.stanford.edu/~boyd/papers/admm_distr_stats.html) - [Proximal Methods](http://stanford.edu/~boyd/papers/pdf/prox_algs.pdf) Examples: [1](http://stanford.edu/~boyd/papers/prox_algs/index.html), [2](http://stanford.edu/~boyd/papers/prox_algs.html)
 197. [Metalearning](http://metalearning.ml/2018/slides/meta_learning_2018_Larochelle.pdf)
+198. [Math review & optimization material](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/index.html)
