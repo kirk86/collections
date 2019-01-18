@@ -214,3 +214,4 @@ Collection of random useful links over the internet
 196. [ADMM](https://web.stanford.edu/~boyd/papers/pdf/admm_distr_stats.pdf) Examples:[1](http://stanford.edu/~boyd/admm.html), [2](https://web.stanford.edu/~boyd/papers/admm_distr_stats.html) - [Proximal Methods](http://stanford.edu/~boyd/papers/pdf/prox_algs.pdf) Examples: [1](http://stanford.edu/~boyd/papers/prox_algs/index.html), [2](http://stanford.edu/~boyd/papers/prox_algs.html)
 197. [Metalearning](http://metalearning.ml/2018/slides/meta_learning_2018_Larochelle.pdf)
 198. Math review & optimization material: [1](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/index.html), [2](https://sites.google.com/view/math-for-is-ws1718/), [3](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/Lecture-Maths.pdf), [4](https://ipvs.informatik.uni-stuttgart.de/mlr/teaching/)
+199. [Awesome Optimization Tutorial](https://www.dmtk.io/slides/distributedML-aaai2017.pdf)
