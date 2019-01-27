@@ -163,7 +163,7 @@ Collection of random useful links over the internet
 146. [Deep Bayesian Summer School 2018](http://deepbayes.ru/#materials)
 147. [CMU deep learning course 2018](http://deeplearning.cs.cmu.edu/)
 148. [Learning from data G.Strang](http://math.mit.edu/~gs/learningfromdata/)
-149. [Tensorflow tutorial](https://github.com/snowkylin/TensorFlow-cn)
+149. [Tensorflow tutorial](https://github.com/snowkylin/TensorFlow-cn) [2](https://www.math.purdue.edu/~nwinovic/tensorflow.html)
 150. [StarAI summer school 2018 lectures](https://www.youtube.com/playlist?list=PLJPXEH0boeNDWTNwWTWnVffXi5XwAj1mb)
 151. [ILP 2018](https://www.youtube.com/playlist?list=PLJPXEH0boeNDrNcUCQoesU6przDuToqRb)
 152. [Non-convex Optimization NIPS 2015 Workshop](https://sites.google.com/site/nips2015nonconvexoptimization/schedule)
