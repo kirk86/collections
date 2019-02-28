@@ -218,3 +218,4 @@ Collection of random useful links over the internet
 200. [Introduction to Statistical Learning slides](http://www-bcf.usc.edu/~gareth/ISL/) [2](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) [ku.dk slides](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) [HKUST](https://yuany-pku.github.io/2018_math4432/) [KOGOD](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) [Radford Neal course](http://www.utstat.utoronto.ca/~radford/sta414.S06/)
 201. [Deep Learning Bridging Theory & Practice](http://people.csail.mit.edu/madry/6.883/)
 202. [Reinforcement Learning & Optimal Control](http://web.mit.edu/dimitrib/www/RLbook.html)
+203. [ML Toronto](https://www.psi.toronto.edu/~jimmy/ece521/)
