@@ -219,3 +219,4 @@ Collection of random useful links over the internet
 201. [Deep Learning Bridging Theory & Practice](http://people.csail.mit.edu/madry/6.883/)
 202. [Reinforcement Learning & Optimal Control](http://web.mit.edu/dimitrib/www/RLbook.html)
 203. [ML Toronto](https://www.psi.toronto.edu/~jimmy/ece521/)
+204. [Nice ML book](https://mml-book.github.io)
