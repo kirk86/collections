@@ -45,7 +45,7 @@ Collection of random useful links over the internet
 42. [Statistical Learning Theory: Illinois](http://maxim.ece.illinois.edu/teaching/fall14/schedule.html)
 43. [Statistical Learning Theory: UPenn](http://www-stat.wharton.upenn.edu/~rakhlin/courses/stat928/index.html)
 44. [Math for ML: MIT OCW](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/readings/)
-45. [Michael Joardan suggested readings](https://www.goodreads.com/review/list/6324945-nikita-zhiltsov?shelf=m-jordan-s-list)
+45. [Michael Jordan suggested readings](https://www.goodreads.com/review/list/6324945-nikita-zhiltsov?shelf=m-jordan-s-list)
 46. [Bandits](http://banditalgs.com/2016/09/18/the-upper-confidence-bound-algorithm/)
 47. [Online Methods for ML](http://www.mit.edu/~rakhlin/6.883/)
 48. [Concentration inequalities](http://www.mit.edu/~rakhlin/courses/conc_ineq/)
