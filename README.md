@@ -220,3 +220,4 @@ Collection of random useful links over the internet
 202. [Reinforcement Learning & Optimal Control](http://web.mit.edu/dimitrib/www/RLbook.html)
 203. [ML Toronto](https://www.psi.toronto.edu/~jimmy/ece521/)
 204. [Nice ML book](https://mml-book.github.io)
+205. [Collection of nice courses/material from Joan Bruna](https://github.com/joanbruna)
