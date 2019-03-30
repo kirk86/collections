@@ -222,3 +222,4 @@ Collection of random useful links over the internet
 204. [Nice ML book](https://mml-book.github.io)
 205. [Collection of nice courses/material from Joan Bruna](https://github.com/joanbruna)
 206. [MathStats book](https://epdf.tips/mathematical-statistics-and-data-analysis65096.html)
+207. [Causal analysis](http://bayes.cs.ucla.edu/PRIMER/)
