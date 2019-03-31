@@ -223,3 +223,4 @@ Collection of random useful links over the internet
 205. [Collection of nice courses/material from Joan Bruna](https://github.com/joanbruna)
 206. [MathStats book](https://epdf.tips/mathematical-statistics-and-data-analysis65096.html)
 207. [Causal analysis](http://bayes.cs.ucla.edu/PRIMER/)
+208. [Physics & Computation](https://windowsontheory.org/2019/03/30/physics-computation-blog-post-round-up/)
