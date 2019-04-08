@@ -224,3 +224,4 @@ Collection of random useful links over the internet
 206. [MathStats book](https://epdf.tips/mathematical-statistics-and-data-analysis65096.html)
 207. [Causal analysis](http://bayes.cs.ucla.edu/PRIMER/)
 208. [Physics & Computation](https://windowsontheory.org/2019/03/30/physics-computation-blog-post-round-up/)
+209. [Astrophysics and ML winter school](http://www.iac.es/winterschool/2018/pages/book-ws2018.php)
