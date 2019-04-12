@@ -226,3 +226,4 @@ Collection of random useful links over the internet
 208. [Physics & Computation](https://windowsontheory.org/2019/03/30/physics-computation-blog-post-round-up/)
 209. [Astrophysics and ML winter school](http://www.iac.es/winterschool/2018/pages/book-ws2018.php)
 210. [Optimal Transport](https://optimaltransport.github.io/)
+211. [Open problems in data privacy](https://dataprivacyopenpro.wixsite.com/mysite/forum/problem-list)[video](https://dataprivacyopenpro.wixsite.com/mysite/forum/problem-list)
