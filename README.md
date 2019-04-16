@@ -228,3 +228,4 @@ Collection of random useful links over the internet
 210. [Optimal Transport](https://optimaltransport.github.io/)
 211. [Open problems in data privacy](https://dataprivacyopenpro.wixsite.com/mysite/forum/problem-list) [video](https://dataprivacyopenpro.wixsite.com/mysite/forum/problem-list)
 212. [Colt open problems](http://www.learningtheory.org/colt2017/for-authors-2/call-open-problems/) [2018](http://www.learningtheory.org/colt2018/call.html) [2019](http://learningtheory.org/colt2019/call.html#openproblems)
+213. [Future Areas in ML](https://indico.cern.ch/event/766872/contributions/3287977/)
