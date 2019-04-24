@@ -188,7 +188,7 @@ Collection of random useful links over the internet
 171. [Statistical Thinking](http://statsthinking21.org)
 172. [Adversarial Tutorial NeurIPS 2018](https://adversarial-ml-tutorial.org/)
 173. [Variational Bayesian Inference ICML 2018 Tutorial](http://www.tamarabroderick.com/tutorial_2018_icml.html) [Tutorials](http://www.tamarabroderick.com/tutorials.html) [NeurIPS 2018 Tutorial](https://www.facebook.com/nipsfoundation/videos/289885991643586/) [Slides](http://www2.stat.duke.edu/~dunson/ScalableBayes_dunsonNIPS2018.pdf?fbclid=IwAR0UcAhNfVvOgPp2Zd7HkEcJ3wfwdvjpctmqU2pk9yoi7x6hCH1gXt8FOtE)
-174. [Statistical Learning Theory NeurIPS 2018](https://www.facebook.com/nipsfoundation/videos/590172534772927/) [Slides](https://media.neurips.cc/Conferences/NIPS2018/Slides/stastical_learning_theory.pdf) [Additional Slides](http://statistikframjandet.se/cramersallskapet/wp-content/uploads/2011/06/JST.pdf)
+174. [Statistical Learning Theory NeurIPS 2018](https://www.facebook.com/nipsfoundation/videos/590172534772927/) [Slides](https://media.neurips.cc/Conferences/NIPS2018/Slides/stastical_learning_theory.pdf) [Additional Slides](http://statistikframjandet.se/cramersallskapet/wp-content/uploads/2011/06/JST.pdf) [MLSS04-Taylor](http://videolectures.net/mlss04_taylor_slt/) [MLSS03-Bousquet](http://videolectures.net/mlss03_bousquet_slt/)
 175. [AutoML book](http://www.automl.org/book/)
 176. [Reinforcement Learning Book](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) [Alt. link](http://incompleteideas.net/book/the-book-2nd.html)
 177. [Competitive Programming](https://cses.fi/book/index.html)
