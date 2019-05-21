@@ -233,4 +233,4 @@ Collection of random useful links over the internet
 215. [Lecture notes on Stats from columbia](http://www.stat.columbia.edu/~gelman/book/220lecturenotes.pdf)
 216. [Theoretical DNN lectures](http://mitliagkas.github.io/ift6085-dl-theory-class-2019/)
 217. [Limitations of opaque learning](https://ftp.cs.ucla.edu/pub/stat_ser/r489.pdf)
-218. Physics + ML: [1](https://www.ml4science.org/agenda-physics-in-ml) [2](https://machine19.github.io/)
+218. Physics + ML: [1](https://www.ml4science.org/agenda-physics-in-ml), [2](https://machine19.github.io/)
