@@ -231,3 +231,4 @@ Collection of random useful links over the internet
 213. [Future Areas in ML](https://indico.cern.ch/event/766872/contributions/3287977/)
 214. [Rejections](http://www.fang.ece.ufl.edu/reject.html)
 215. [Lecture notes on Stats from columbia](http://www.stat.columbia.edu/~gelman/book/220lecturenotes.pdf)
+216. [Theoretical DNN lectures](http://mitliagkas.github.io/ift6085-dl-theory-class-2019/)
