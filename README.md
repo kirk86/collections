@@ -232,3 +232,4 @@ Collection of random useful links over the internet
 214. [Rejections](http://www.fang.ece.ufl.edu/reject.html)
 215. [Lecture notes on Stats from columbia](http://www.stat.columbia.edu/~gelman/book/220lecturenotes.pdf)
 216. [Theoretical DNN lectures](http://mitliagkas.github.io/ift6085-dl-theory-class-2019/)
+217. [Limitations of opaque learning](https://ftp.cs.ucla.edu/pub/stat_ser/r489.pdf)
