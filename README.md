@@ -230,3 +230,4 @@ Collection of random useful links over the internet
 212. [Colt open problems](http://www.learningtheory.org/colt2017/for-authors-2/call-open-problems/) [2018](http://www.learningtheory.org/colt2018/call.html) [2019](http://learningtheory.org/colt2019/call.html#openproblems)
 213. [Future Areas in ML](https://indico.cern.ch/event/766872/contributions/3287977/)
 214. [Rejections](http://www.fang.ece.ufl.edu/reject.html)
+215. [Lecture notes on Stats from columbia](http://www.stat.columbia.edu/~gelman/book/220lecturenotes.pdf)
