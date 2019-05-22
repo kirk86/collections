@@ -35,7 +35,7 @@ Collection of random useful links over the internet
 32. [Deep Learning Resources](http://www.jeremydjacksonphd.com/category/deep-learning/)
 33. [Reinforcement Learning](https://sites.ualberta.ca/~szepesva/RLBook.html) [Key papers](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 34. [Reinforcement Learning Berkeley](http://rll.berkeley.edu/deeprlcourse/) [CS188 - Reinforcement Learning](https://inst.eecs.berkeley.edu/~cs188/fa18/)
-35. [Foundations of Data Science MSR](https://www.youtube.com/watch?v=WEBUWYxaqLQ&list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc),[1](https://www.microsoft.com/en-us/research/video/foundations-of-ds/?OCID=msr_project_datascibook_tw), [book](https://www.cs.cornell.edu/jeh/book.pdf)
+35. [Foundations of Data Science MSR](https://www.youtube.com/watch?v=WEBUWYxaqLQ&list=PLD7HFcN7LXRcvobbHq_8zMyWq_tKwtebc), [1](https://www.microsoft.com/en-us/research/video/foundations-of-ds/?OCID=msr_project_datascibook_tw), [book](https://www.cs.cornell.edu/jeh/book.pdf)
 36. [The analysis of data](http://theanalysisofdata.com/probability/1_1.html)
 37. [Statistical Learning Theory Stanford](https://web.stanford.edu/class/cs229t/Lectures/)
 38. [AI: Principles & Techniques Stanford](https://web.stanford.edu/class/cs221/)
